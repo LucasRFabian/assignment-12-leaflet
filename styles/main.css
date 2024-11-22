@@ -1,0 +1,6 @@
+#map { 
+    width: 50rem;
+    max-width: 95%;
+    margin: auto;
+    aspect-ratio: 5 / 3;
+}
