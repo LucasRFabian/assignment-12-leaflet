@@ -8,7 +8,12 @@ h1 {
     font-size: 3rem;
 }
 
-#map { 
+p {
+    max-width: 60rem;
+    margin: 1rem auto;
+}
+
+#map, #map2 { 
     width: 900px;
     max-width: 100%;
     margin: auto;
